@@ -10,7 +10,7 @@ For downloading latest release:
 node app.js <github user> <github repo> <output dir>
 ```
 
-For downloading latest release:
+For downloading latest release and replacing string in specific file:
 ``` bash
 node app.js <github user> <github repo> <output dir> <file to change name> <string to replace> <new string>
 ```
